@@ -1,7 +1,7 @@
 # lista_de_nombres.py
 
 # Lista inicial con tres nombres
-nombres = ["valeria", "adrina", "henrry"]
+nombres = ["valeria", "adrina", "henrry marcos"]
 
 def mostrar_nombres():
     print("\nNombres actuales:")
